@@ -1,0 +1,13 @@
+﻿namespace CustomerConsoleApp.Models
+{
+    public class CustomerSummary
+    {
+        public int CustomerId { get; set; }
+
+        public string? CustomerName { get; set; }
+
+        public int TotalOrders { get; set; }
+
+        public decimal TotalSpend { get; set; }
+    }
+}
