@@ -13,7 +13,7 @@ Run the SQL script:
 
 sql/answers.sql
 
-This will create the database `AssessmentDB` and insert sample data.
+This will run SQL scripts to gather info from the tables in the AssessmentDB
 
 ## Run Application
 
